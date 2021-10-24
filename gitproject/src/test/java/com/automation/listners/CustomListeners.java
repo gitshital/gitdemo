@@ -21,14 +21,15 @@ public class CustomListeners extends Testbase implements ITestListener
 
  
     public void onFinish(ITestContext arg0) {					
-        // TODO Auto-generated method stub				
+        // TODO Auto-generated method stub		
+    	System.out.println("on finish");
         		
     }		
 
     
     public void onStart(ITestContext arg0) {					
         //test=rep.startTest(arg0.getName().toUpperCase());			
-        	
+        	System.out.println("on finish");
 
     }	
     public void onTestFailedButWithinSuccessPercentage(ITestResult arg0) {					
