@@ -1,0 +1,7 @@
+com\automation\testuUtility\ExcelReader.class
+com\automation\Rough\TestProperties.class
+com\automation\testcases\AddCustomerTest.class
+com\automation\testcases\Logintest.class
+com\automation\testbase\Testbase.class
+com\automation\testuUtility\Extentmanager.class
+com\automation\listners\CustomListeners.class

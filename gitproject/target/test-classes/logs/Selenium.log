@@ -1,0 +1,189 @@
+15:18:33,506 DEBUG devpinoyLogger:29 - config file loaded
+  15:18:33,509 DEBUG devpinoyLogger:34 - OR loaded
+  15:18:35,518 DEBUG devpinoyLogger:42 - Browser launch
+  15:18:36,251 DEBUG devpinoyLogger:12 - inside login test
+  15:18:39,434 DEBUG devpinoyLogger:15 - click on mlbtn successful
+  15:24:20,101 DEBUG devpinoyLogger:29 - config file loaded
+  15:24:20,107 DEBUG devpinoyLogger:34 - OR loaded
+  15:24:22,218 DEBUG devpinoyLogger:42 - Browser launch
+  15:24:22,858 DEBUG devpinoyLogger:12 - inside login test
+  15:24:25,973 DEBUG devpinoyLogger:15 - click on mlbtn successful
+  15:26:41,504 DEBUG devpinoyLogger:29 - config file loaded
+  15:26:41,509 DEBUG devpinoyLogger:34 - OR loaded
+  15:26:43,500 DEBUG devpinoyLogger:42 - Browser launch
+  15:26:44,216 DEBUG devpinoyLogger:12 - inside login test
+  15:26:47,335 DEBUG devpinoyLogger:15 - click on mlbtn successful
+  16:14:00,770 DEBUG devpinoyLogger:31 - config file loaded
+  16:14:00,774 DEBUG devpinoyLogger:36 - OR loaded
+  16:14:02,843 DEBUG devpinoyLogger:44 - Browser launch
+  16:14:03,634 DEBUG devpinoyLogger:13 - inside login test
+  16:14:06,701 DEBUG devpinoyLogger:16 - click on mlbtn successful
+  16:16:57,878 DEBUG devpinoyLogger:31 - config file loaded
+  16:16:57,882 DEBUG devpinoyLogger:36 - OR loaded
+  16:16:59,855 DEBUG devpinoyLogger:44 - Browser launch
+  16:20:47,773 DEBUG devpinoyLogger:31 - config file loaded
+  16:20:47,775 DEBUG devpinoyLogger:36 - OR loaded
+  16:20:49,692 DEBUG devpinoyLogger:44 - Browser launch
+  16:20:50,452 DEBUG devpinoyLogger:13 - inside login test
+  16:20:53,618 DEBUG devpinoyLogger:16 - click on mlbtn successful
+  16:21:27,963 DEBUG devpinoyLogger:31 - config file loaded
+  16:21:27,969 DEBUG devpinoyLogger:36 - OR loaded
+  16:21:30,125 DEBUG devpinoyLogger:44 - Browser launch
+  16:21:30,698 DEBUG devpinoyLogger:13 - inside login test
+  16:21:33,790 DEBUG devpinoyLogger:16 - click on mlbtn successful
+  16:22:49,582 DEBUG devpinoyLogger:31 - config file loaded
+  16:22:49,589 DEBUG devpinoyLogger:36 - OR loaded
+  16:22:51,517 DEBUG devpinoyLogger:44 - Browser launch
+  16:22:52,050 DEBUG devpinoyLogger:13 - inside login test
+  16:22:55,124 DEBUG devpinoyLogger:16 - click on mlbtn successful
+  02:19:14,616 DEBUG devpinoyLogger:41 - config file loaded
+  02:19:14,619 DEBUG devpinoyLogger:46 - OR loaded
+  02:19:16,729 DEBUG devpinoyLogger:54 - Browser launch
+  02:19:17,512 DEBUG devpinoyLogger:13 - inside login test
+  02:19:20,611 DEBUG devpinoyLogger:16 - click on mlbtn successful
+  02:24:31,832 DEBUG devpinoyLogger:41 - config file loaded
+  02:24:31,835 DEBUG devpinoyLogger:46 - OR loaded
+  02:24:33,666 DEBUG devpinoyLogger:54 - Browser launch
+  02:24:34,311 DEBUG devpinoyLogger:13 - inside login test
+  02:24:37,401 DEBUG devpinoyLogger:16 - click on mlbtn successful
+  22:31:16,689 DEBUG devpinoyLogger:41 - config file loaded
+  22:31:16,693 DEBUG devpinoyLogger:46 - OR loaded
+  22:31:18,863 DEBUG devpinoyLogger:54 - Browser launch
+  22:31:19,790 DEBUG devpinoyLogger:13 - inside login test
+  22:31:22,870 DEBUG devpinoyLogger:16 - click on mlbtn successful
+  22:34:44,000 DEBUG devpinoyLogger:41 - config file loaded
+  22:34:44,003 DEBUG devpinoyLogger:46 - OR loaded
+  22:34:46,071 DEBUG devpinoyLogger:54 - Browser launch
+  22:34:46,983 DEBUG devpinoyLogger:14 - inside login test
+  22:34:50,064 DEBUG devpinoyLogger:17 - click on mlbtn successful
+  22:47:49,171 DEBUG devpinoyLogger:41 - config file loaded
+  22:47:49,174 DEBUG devpinoyLogger:46 - OR loaded
+  22:47:51,349 DEBUG devpinoyLogger:54 - Browser launch
+  22:47:52,021 DEBUG devpinoyLogger:14 - inside login test
+  22:47:55,159 DEBUG devpinoyLogger:17 - click on mlbtn successful
+  22:53:17,666 DEBUG devpinoyLogger:41 - config file loaded
+  22:53:17,669 DEBUG devpinoyLogger:46 - OR loaded
+  22:53:19,617 DEBUG devpinoyLogger:54 - Browser launch
+  22:53:20,176 DEBUG devpinoyLogger:15 - inside login test
+  22:53:23,252 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:56:47,299 DEBUG devpinoyLogger:41 - config file loaded
+  22:56:47,303 DEBUG devpinoyLogger:46 - OR loaded
+  22:56:50,009 DEBUG devpinoyLogger:54 - Browser launch
+  22:56:50,683 DEBUG devpinoyLogger:15 - inside login test
+  22:56:53,814 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  00:25:12,421 DEBUG devpinoyLogger:41 - config file loaded
+  00:25:12,427 DEBUG devpinoyLogger:46 - OR loaded
+  00:25:17,418 DEBUG devpinoyLogger:54 - Browser launch
+  00:25:18,366 DEBUG devpinoyLogger:15 - inside login test
+  00:25:21,591 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  00:34:20,667 DEBUG devpinoyLogger:41 - config file loaded
+  00:34:20,672 DEBUG devpinoyLogger:46 - OR loaded
+  00:34:22,735 DEBUG devpinoyLogger:54 - Browser launch
+  00:34:23,582 DEBUG devpinoyLogger:15 - inside login test
+  00:34:26,677 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  00:38:00,194 DEBUG devpinoyLogger:41 - config file loaded
+  00:38:00,197 DEBUG devpinoyLogger:46 - OR loaded
+  00:38:02,430 DEBUG devpinoyLogger:54 - Browser launch
+  00:38:03,467 DEBUG devpinoyLogger:15 - inside login test
+  00:38:06,559 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  15:56:56,676 DEBUG devpinoyLogger:41 - config file loaded
+  15:56:56,679 DEBUG devpinoyLogger:46 - OR loaded
+  15:56:59,920 DEBUG devpinoyLogger:54 - Browser launch
+  15:57:00,711 DEBUG devpinoyLogger:15 - inside login test
+  15:57:03,848 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:10:03,479 DEBUG devpinoyLogger:41 - config file loaded
+  22:10:03,483 DEBUG devpinoyLogger:46 - OR loaded
+  22:10:08,135 DEBUG devpinoyLogger:54 - Browser launch
+  22:10:14,286 DEBUG devpinoyLogger:15 - inside login test
+  22:10:17,394 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:12:45,681 DEBUG devpinoyLogger:45 - config file loaded
+  22:12:45,685 DEBUG devpinoyLogger:50 - OR loaded
+  22:12:49,082 DEBUG devpinoyLogger:58 - Browser launch
+  22:12:49,944 DEBUG devpinoyLogger:15 - inside login test
+  22:12:53,074 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:16:18,220 DEBUG devpinoyLogger:45 - config file loaded
+  22:16:18,225 DEBUG devpinoyLogger:50 - OR loaded
+  22:16:21,438 DEBUG devpinoyLogger:58 - Browser launch
+  22:16:22,295 DEBUG devpinoyLogger:15 - inside login test
+  22:16:25,450 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:27:24,114 DEBUG devpinoyLogger:45 - config file loaded
+  22:27:24,117 DEBUG devpinoyLogger:50 - OR loaded
+  22:27:27,025 DEBUG devpinoyLogger:58 - Browser launch
+  22:27:27,757 DEBUG devpinoyLogger:15 - inside login test
+  22:27:30,914 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:34:01,818 DEBUG devpinoyLogger:45 - config file loaded
+  22:34:01,824 DEBUG devpinoyLogger:50 - OR loaded
+  22:34:04,857 DEBUG devpinoyLogger:58 - Browser launch
+  22:34:05,592 DEBUG devpinoyLogger:15 - inside login test
+  22:34:08,724 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:36:00,500 DEBUG devpinoyLogger:45 - config file loaded
+  22:36:00,504 DEBUG devpinoyLogger:50 - OR loaded
+  22:36:03,462 DEBUG devpinoyLogger:58 - Browser launch
+  22:36:04,297 DEBUG devpinoyLogger:15 - inside login test
+  22:36:07,441 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:39:08,081 DEBUG devpinoyLogger:45 - config file loaded
+  22:39:08,084 DEBUG devpinoyLogger:50 - OR loaded
+  22:39:11,101 DEBUG devpinoyLogger:58 - Browser launch
+  22:39:11,979 DEBUG devpinoyLogger:15 - inside login test
+  22:39:15,137 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:42:51,341 DEBUG devpinoyLogger:45 - config file loaded
+  22:42:51,345 DEBUG devpinoyLogger:50 - OR loaded
+  22:42:54,221 DEBUG devpinoyLogger:58 - Browser launch
+  22:42:55,400 DEBUG devpinoyLogger:15 - inside login test
+  22:42:58,542 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:45:18,192 DEBUG devpinoyLogger:45 - config file loaded
+  22:45:18,196 DEBUG devpinoyLogger:50 - OR loaded
+  22:45:21,092 DEBUG devpinoyLogger:58 - Browser launch
+  22:45:21,841 DEBUG devpinoyLogger:15 - inside login test
+  22:45:24,991 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  22:49:02,309 DEBUG devpinoyLogger:45 - config file loaded
+  22:49:02,315 DEBUG devpinoyLogger:50 - OR loaded
+  22:49:05,490 DEBUG devpinoyLogger:58 - Browser launch
+  22:49:06,246 DEBUG devpinoyLogger:15 - inside login test
+  22:49:09,397 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  23:23:36,840 DEBUG devpinoyLogger:45 - config file loaded
+  23:23:36,845 DEBUG devpinoyLogger:50 - OR loaded
+  23:23:40,361 DEBUG devpinoyLogger:58 - Browser launch
+  23:23:41,183 DEBUG devpinoyLogger:15 - inside login test
+  23:23:44,355 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  23:24:45,864 DEBUG devpinoyLogger:45 - config file loaded
+  23:24:45,867 DEBUG devpinoyLogger:50 - OR loaded
+  23:24:48,986 DEBUG devpinoyLogger:58 - Browser launch
+  23:24:49,743 DEBUG devpinoyLogger:15 - inside login test
+  23:24:52,899 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  23:27:51,697 DEBUG devpinoyLogger:45 - config file loaded
+  23:27:51,701 DEBUG devpinoyLogger:50 - OR loaded
+  23:27:55,100 DEBUG devpinoyLogger:58 - Browser launch
+  23:27:55,894 DEBUG devpinoyLogger:15 - inside login test
+  23:27:59,042 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  23:28:33,253 DEBUG devpinoyLogger:45 - config file loaded
+  23:28:33,258 DEBUG devpinoyLogger:50 - OR loaded
+  23:28:36,319 DEBUG devpinoyLogger:58 - Browser launch
+  23:28:37,079 DEBUG devpinoyLogger:15 - inside login test
+  23:28:40,194 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  23:33:00,666 DEBUG devpinoyLogger:45 - config file loaded
+  23:33:00,670 DEBUG devpinoyLogger:50 - OR loaded
+  23:33:03,739 DEBUG devpinoyLogger:58 - Browser launch
+  23:33:04,589 DEBUG devpinoyLogger:15 - inside login test
+  23:33:07,749 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  23:35:41,445 DEBUG devpinoyLogger:45 - config file loaded
+  23:35:41,449 DEBUG devpinoyLogger:50 - OR loaded
+  23:35:45,029 DEBUG devpinoyLogger:58 - Browser launch
+  23:35:45,930 DEBUG devpinoyLogger:15 - inside login test
+  23:35:49,091 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  23:38:49,594 DEBUG devpinoyLogger:45 - config file loaded
+  23:38:49,599 DEBUG devpinoyLogger:50 - OR loaded
+  23:38:52,840 DEBUG devpinoyLogger:58 - Browser launch
+  23:38:53,586 DEBUG devpinoyLogger:15 - inside login test
+  23:38:56,729 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  23:42:17,934 DEBUG devpinoyLogger:45 - config file loaded
+  23:42:17,938 DEBUG devpinoyLogger:50 - OR loaded
+  23:42:21,233 DEBUG devpinoyLogger:58 - Browser launch
+  23:42:22,066 DEBUG devpinoyLogger:15 - inside login test
+  23:42:25,250 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  23:43:17,197 DEBUG devpinoyLogger:45 - config file loaded
+  23:43:17,201 DEBUG devpinoyLogger:50 - OR loaded
+  23:43:20,203 DEBUG devpinoyLogger:58 - Browser launch
+  23:43:21,163 DEBUG devpinoyLogger:15 - inside login test
+  23:43:24,412 DEBUG devpinoyLogger:18 - click on mlbtn successful
+  
