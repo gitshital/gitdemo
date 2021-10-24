@@ -34,7 +34,7 @@ public class CustomListeners extends Testbase implements ITestListener
     }	
     public void onTestFailedButWithinSuccessPercentage(ITestResult arg0) {					
         // TODO Auto-generated method stub				
-        		
+        		System.out.println("sbssj");
     }			
     public void onTestFailure(ITestResult arg0) {					
      			
